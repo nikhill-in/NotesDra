@@ -1,3 +1,5 @@
+🚀 An all-in-one developer learning hub that aggregates educational content from 8+ sources (MDN, W3Schools, Stack Overflow & more), featuring a live code workspace, file converter, tech blog, and AI tools directory. Built with React, TypeScript, Vite & Tailwind.
+
 ## Run Locally
 
 **Prerequisites:**  Node.js
