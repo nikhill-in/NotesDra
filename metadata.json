@@ -1,0 +1,6 @@
+{
+  "name": "Notesdra",
+  "description": "Next-generation educational aggregator, developer code workspace, and file conversion utility.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
