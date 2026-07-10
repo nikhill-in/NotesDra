@@ -103078,6 +103078,54 @@
       ],
       "ip_address": "127.0.0.1",
       "created_at": "2026-07-05T19:00:31.448Z"
+    },
+    {
+      "id": "f9ff3b84-ed17-4064-8a35-121b352a5b5a",
+      "user_id": "e091a26d-2ad8-4203-bb3a-148c9c840986",
+      "username": "bj",
+      "query": "css flexbox",
+      "sources_fetched": [
+        "mdn",
+        "w3schools",
+        "geeksforgeeks",
+        "wikipedia",
+        "medium",
+        "stackoverflow"
+      ],
+      "ip_address": "127.0.0.1",
+      "created_at": "2026-07-09T17:06:54.919Z"
+    },
+    {
+      "id": "26394cb9-2dad-4d6d-ab7f-46d15b48cfd8",
+      "user_id": "e091a26d-2ad8-4203-bb3a-148c9c840986",
+      "username": "bj",
+      "query": "css flexbox",
+      "sources_fetched": [
+        "mdn",
+        "w3schools",
+        "geeksforgeeks",
+        "wikipedia",
+        "medium",
+        "stackoverflow"
+      ],
+      "ip_address": "127.0.0.1",
+      "created_at": "2026-07-09T17:06:55.041Z"
+    },
+    {
+      "id": "bf1cd79d-0bec-42b4-bfae-389e84ecc09e",
+      "user_id": "e091a26d-2ad8-4203-bb3a-148c9c840986",
+      "username": "bj",
+      "query": "why we use colon in js",
+      "sources_fetched": [
+        "mdn",
+        "w3schools",
+        "geeksforgeeks",
+        "wikipedia",
+        "medium",
+        "stackoverflow"
+      ],
+      "ip_address": "127.0.0.1",
+      "created_at": "2026-07-09T17:07:27.329Z"
     }
   ],
   "conversion_history": [
@@ -103092,13 +103140,13 @@
   ],
   "active_sessions": [
     {
-      "id": "33fc9e8a-c78e-434d-b3f2-977864154cd1",
-      "ip_address": "127.0.0.1",
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-      "last_seen": "2026-07-05T19:00:31.538Z",
-      "page": "/api/admin/ads",
+      "id": "87feb93b-963f-4b6b-8256-30dd50e08eb5",
       "user_id": "e091a26d-2ad8-4203-bb3a-148c9c840986",
-      "username": "bj"
+      "username": "bj",
+      "ip_address": "127.0.0.1",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+      "last_seen": "2026-07-09T17:07:41.295Z",
+      "page": "/favicon.ico"
     }
   ],
   "advertisements": [
